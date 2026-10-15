@@ -20,7 +20,8 @@
       {
         "group": "Navigation smoke test",
         "pages": [
-          "nav-smoke-git"
+          "nav-smoke-git",
+          "nav-smoke-git-second"
         ]
       }
     ],
