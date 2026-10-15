@@ -16,13 +16,6 @@
           "index",
           "quickstart"
         ]
-      },
-      {
-        "group": "Main smoke — unpublished rename",
-        "pages": [
-          "nav-main-smoke",
-          "nav-main-smoke-second"
-        ]
       }
     ],
     "global": {
