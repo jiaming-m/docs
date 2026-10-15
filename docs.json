@@ -16,6 +16,12 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Main navigation smoke test",
+        "pages": [
+          "nav-main-smoke"
+        ]
       }
     ],
     "global": {
