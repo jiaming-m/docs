@@ -18,7 +18,7 @@
         ]
       },
       {
-        "group": "Navigation smoke test",
+        "group": "Navigation smoke — editor pending",
         "pages": [
           "nav-smoke-git",
           "nav-smoke-git-second"
