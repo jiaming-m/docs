@@ -18,10 +18,10 @@
         ]
       },
       {
-        "group": "Navigation smoke — editor pending",
+        "group": "Navigation smoke \u2014 editor pending",
         "pages": [
-          "nav-smoke-git",
-          "nav-smoke-git-second"
+          "nav-smoke-git-second",
+          "nav-smoke-git"
         ]
       }
     ],
