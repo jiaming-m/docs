@@ -20,7 +20,8 @@
       {
         "group": "Main navigation smoke test",
         "pages": [
-          "nav-main-smoke"
+          "nav-main-smoke",
+          "nav-main-smoke-second"
         ]
       }
     ],
